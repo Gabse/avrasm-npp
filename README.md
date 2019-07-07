@@ -23,7 +23,9 @@ Installation instructions:
    2. In the window that appears, click `Import`.
    3. In the file browser, browse to and select your downloaded `.xml` file, and click `Open`.
    4. Wait for the 'Import Successful' dialog to be shown.
+   5. Repeat for additional files if desired.
 3. Open an AVR assembly file in Notepad++ (file extension must be `.asm` or `.inc`). Under the `Languages` drop down, select the name of the UDL.
+   1. You may need to restart Notepad++ to see the user defined language option in the menu.
 4. Enjoy!
 
 ## Licensing
