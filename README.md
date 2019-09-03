@@ -1,9 +1,11 @@
 # avrasm-npp
+![license](https://img.shields.io/github/license/electronictoast/avrasm-npp)
+
 UDL files for AVR Assembly syntax highlighting with Notepad++
 
 ## Description
 
-This project is a set of user defined language files for Notepad++ that does syntax highlighting for AVR assembly `.asm` and `inc` files. Dark and light variations are provided.
+This is a set of user defined language files for Notepad++ that does syntax highlighting for AVR assembly `.asm` and `inc` files. Dark and light variations are provided.
 
 ## Screenshots
 
